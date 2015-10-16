@@ -1,0 +1,2 @@
+# JSFCompositeComponent
+JSF Composite Component
